@@ -1,0 +1,62 @@
+.menu{
+
+    background-color: rgb(52, 161, 120);
+
+    display: flex;
+    justify-content: flex-end;
+}
+.menu a{
+   
+text-decoration: none;
+padding: 20px;
+color: white;
+
+}
+.menu a:hover{
+    background-color: rgb(138, 105, 36);
+}
+
+.container
+{
+    margin-top: 100px;
+
+}
+.newarrival
+{
+
+    background: orange;
+    color: rgb(29, 173, 113);
+    padding: 15px;
+
+}
+ .h2
+ {
+    color: rgb(32, 165, 154);
+}
+
+.price{
+
+
+    color: rgb(32, 165, 154);
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 20px;
+
+}
+
+input{
+
+    border: 1px solid grey;
+    font-weight: bold;
+    height: 33px;
+    text-align: center;
+    width: 30px;
+
+}
+
+.cart{
+    background: rgb(42, 83, 131);
+    text-shadow: darkgreen;
+    font-size: 15px;
+    margin-left: 23px;
+}
